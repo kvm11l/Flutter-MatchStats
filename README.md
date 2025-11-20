@@ -1,6 +1,6 @@
 # MatchStats – Aplikacja do organizacji meczów piłkarskich i prowadzenia statystyk
 
-MatchStats to aplikacja mobilna wspomagająca organizuję nieprofesjonalnych mecze piłkarskie. Jej celem jest połączenie w jednym narzędziu funkcji organizacji spotkań, komunikacji oraz prowadzenia szczegółowych statystyk zawodników i drużyn. Aplikacja została opracowana w technologii Flutter z wykorzystaniem backendu Firebase (Authentication, Cloud Firestore, Storage), dzięki czemu działa szybko, jest skalowalna i umożliwia aktualizację danych w czasie rzeczywistym.
+MatchStats to aplikacja mobilna wspomagająca organizację nieprofesjonalnych meczów piłkarskich. Jej celem jest połączenie w jednym narzędziu funkcji organizacji spotkań, komunikacji oraz prowadzenia szczegółowych statystyk zawodników i drużyn. Aplikacja została opracowana w technologii Flutter z wykorzystaniem backendu Firebase (Authentication, Cloud Firestore, Storage), dzięki czemu działa szybko, jest skalowalna i umożliwia aktualizację danych w czasie rzeczywistym.
 
 ## MatchStats ma na celu:
 - ułatwić organizację amatorskich meczów,
